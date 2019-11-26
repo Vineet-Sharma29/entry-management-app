@@ -4,10 +4,10 @@ Managing meetings can be difficult sometimes. This web-app tries to handle this 
 
 ## Features
 
-[x] SMS-Notification
-[x] Email Notification
-[X] Check-out email
-[x] Form validation
+- [x] SMS-Notification
+- [x] Email Notification
+- [X] Check-out email
+- [x] Form validation
 
 ## Implementation Details
 
