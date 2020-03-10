@@ -18,7 +18,7 @@
             </el-col>
 
             <el-col class="form-div" :xs="24" :sm="24" :md="24" :lg="12" :xl="12">
-                <div v-if="isMeetingConfirmed">
+                <div v-if="!isMeetingConfirmed">
                     <el-col class="steps">
                         <el-steps align-center class="steps" :active="active">
                             <el-step title="Step 1" description="Visitor Details"></el-step>
