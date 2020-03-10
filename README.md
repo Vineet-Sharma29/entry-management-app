@@ -18,6 +18,21 @@ Managing meetings can be difficult sometimes. This web-app tries to handle this 
 - Backend implemented in `Django`
 - Form validation and Error handling in frontend and backend
 
+
+## Tech Stack
+
+- Django
+- VueJS
+- Django Rest Framework
+- Redis
+- Celery
+- AWS-SNS
+- Sendgrid
+
+## Screenshots
+![visitor.png](https://github.com/Vineet-Sharma29/entry-management-app/blob/master/docs/1.png)
+![host.png](https://github.com/Vineet-Sharma29/entry-management-app/blob/master/docs/2.png)
+![confirm.png](https://github.com/Vineet-Sharma29/entry-management-app/blob/master/docs/3.png)
 ## How To Run EMS
 
 - Install all dependencies for server and client by:-
